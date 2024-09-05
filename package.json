@@ -1,0 +1,17 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "class101 웹개발자 사관학교 백엔드",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "givestand",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "supervisor": "^0.12.0"
+  }
+}
