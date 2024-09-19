@@ -9,7 +9,7 @@ module.exports = function(sequelize, DataTypes){
         movie_id: {
             type:DataTypes.STRING(250)
         },
-        review: {
+        review:{
             type:DataTypes.TEXT
         }
     })
